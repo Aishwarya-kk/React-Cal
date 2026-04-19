@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  color:white;
+  margin:200px;
+}
+button{
+  background-color: blue;
+  color: black;
+}
+h1{
+  color: red;
+}
+div{
+  background-color: antiquewhite;
+}
